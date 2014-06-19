@@ -1,0 +1,12 @@
+{
+  "name": "Ip Filter",
+  "version": "0.1.0",
+  "main": "Ipfilter.php",
+  "description": "filter or block site by ip",
+  "author": "@ivancduran",
+  "license": {
+    "type": "MIT",
+    "url": ""
+  },
+  "repository": "git@github.com:ivancduran/ipfilter.git"
+}
